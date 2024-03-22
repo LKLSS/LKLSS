@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lklss&label=Profile%20views&color=0e75b6&style=flat" alt="lklss" /> </p>
 
 # My Tools and Languages
-
 <div align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
@@ -16,10 +15,9 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lklss&show_icons=true&locale=en&layout=compact" alt="lklss" /></p>
 
+#
 
-###
-
----
+<br/>
 
 ### :envelope: Contact Me:
 <p align="left">
