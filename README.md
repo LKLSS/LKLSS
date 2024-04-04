@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
 </div>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lklss&show_icons=true&locale=en&layout=compact" alt="lklss" /></p>
+
 
 #
 
